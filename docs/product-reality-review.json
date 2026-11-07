@@ -1,0 +1,112 @@
+{
+  "checked_at": "2026-11-06T20:33:20.925139+08:00",
+  "stage": "可交互学习原型／技术试用版；未达到完整教材MVP",
+  "counts": {
+    "works": 46,
+    "sentences": 486,
+    "lexemes": 32,
+    "senses": 47,
+    "occurrences": 131,
+    "questions": 121,
+    "textbook_editions": 0,
+    "volumes": 0,
+    "memberships": 0,
+    "content_reviews": 0,
+    "reading_plan_units": 44,
+    "textbook_directory_links": 8,
+    "textbook_gloss_comparisons": 5
+  },
+  "student_directory": {
+    "7上": [
+      "咏雪",
+      "陈太丘与友期行",
+      "论语十二章",
+      "诫子书",
+      "狼",
+      "穿井得一人",
+      "杞人忧天"
+    ],
+    "6上": [
+      "两小儿辩日"
+    ]
+  },
+  "research_only_missing_student_works": [
+    {
+      "title": "古人谈读书",
+      "grade": 5,
+      "semester": "上"
+    },
+    {
+      "title": "曹冲称象",
+      "grade": 6,
+      "semester": "上"
+    },
+    {
+      "title": "关尹子教射",
+      "grade": 6,
+      "semester": "下"
+    },
+    {
+      "title": "活板",
+      "grade": 7,
+      "semester": "下"
+    },
+    {
+      "title": "得道多助，失道寡助",
+      "grade": 8,
+      "semester": "上"
+    },
+    {
+      "title": "周亚夫军细柳",
+      "grade": 8,
+      "semester": "上"
+    },
+    {
+      "title": "核舟记",
+      "grade": 8,
+      "semester": "下"
+    },
+    {
+      "title": "北冥有鱼",
+      "grade": 8,
+      "semester": "下"
+    },
+    {
+      "title": "庄子与惠子游于濠梁之上",
+      "grade": 8,
+      "semester": "下"
+    },
+    {
+      "title": "虽有嘉肴",
+      "grade": 8,
+      "semester": "下"
+    },
+    {
+      "title": "大道之行也",
+      "grade": 8,
+      "semester": "下"
+    },
+    {
+      "title": "送东阳马生序",
+      "grade": 9,
+      "semester": "下"
+    },
+    {
+      "title": "陈涉世家",
+      "grade": 9,
+      "semester": "下"
+    }
+  ],
+  "source_note": "研究条目来源版本混合，missing只表示这些观察标题尚未进入学生库，不是最新版完整目录或总缺篇数。",
+  "cao_chong": {
+    "research_inventory": true,
+    "student_database": false,
+    "student_directory": false
+  },
+  "data_status_counts": {
+    "pending": 46
+  },
+  "ai_runtime_enabled": false,
+  "full_curriculum_total_known": false,
+  "pending_user_decisions": []
+}

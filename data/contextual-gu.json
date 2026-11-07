@@ -1,0 +1,36 @@
+{
+  "sources": [],
+  "works": [],
+  "sentences": [],
+  "lexemes": [],
+  "senses": [
+    {
+      "id": "gu-look-context",
+      "lexeme_id": "word-39038",
+      "label": "看、视",
+      "definition": "本句指观察周围，不能机械地解释成回头看。",
+      "grammar": "动词",
+      "reading": "gù",
+      "source_id": "source-lang",
+      "note": "已与所列五四七上电子本p125注释j比对；教学词性标签与释义证据分开。",
+      "status": "pending"
+    }
+  ],
+  "occurrences": [
+    {
+      "id": "lang-gu-look",
+      "sentence_id": "lang-8",
+      "lexeme_id": "word-39038",
+      "sense_id": "gu-look-context",
+      "start": 0,
+      "end": 1,
+      "note": "观察周围，发现野外有打麦场。教材释义位置见本句溯源。",
+      "status": "pending"
+    }
+  ],
+  "questions": [],
+  "textbook_editions": [],
+  "volumes": [],
+  "memberships": [],
+  "version": "0.3-contextual-gu"
+}

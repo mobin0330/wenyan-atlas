@@ -1,0 +1,4 @@
+click==8.5.0
+h11==0.16.0
+opencc-python-reimplemented==0.1.7
+uvicorn==0.54.0

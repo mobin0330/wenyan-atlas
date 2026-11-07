@@ -1,0 +1,8 @@
+{
+  "authenticated_boot_with_shared_client": true,
+  "primary_units": 9,
+  "all_scopes_units": 44,
+  "long_complete_reader": true,
+  "server_records_after_attempt": true,
+  "browser_errors": []
+}

@@ -1,0 +1,266 @@
+[
+  {
+    "work_id": "cao-gui",
+    "scope": "九年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/master/蒙学/guwenguanzhi.json"
+  },
+  {
+    "work_id": "zou-ji",
+    "scope": "九年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/master/蒙学/guwenguanzhi.json"
+  },
+  {
+    "work_id": "tang-ju",
+    "scope": "九年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/master/蒙学/guwenguanzhi.json"
+  },
+  {
+    "work_id": "chu-shi",
+    "scope": "九年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/master/蒙学/guwenguanzhi.json"
+  },
+  {
+    "work_id": "tao-hua",
+    "scope": "八年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/master/蒙学/guwenguanzhi.json"
+  },
+  {
+    "work_id": "wu-liu",
+    "scope": "八年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/master/蒙学/guwenguanzhi.json"
+  },
+  {
+    "work_id": "lou-shi-full",
+    "scope": "七年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/master/蒙学/guwenguanzhi.json"
+  },
+  {
+    "work_id": "ma-shuo",
+    "scope": "八年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/master/蒙学/guwenguanzhi.json"
+  },
+  {
+    "work_id": "yue-yang",
+    "scope": "九年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/master/蒙学/guwenguanzhi.json"
+  },
+  {
+    "work_id": "zui-weng",
+    "scope": "九年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://github.com/chinese-poetry/chinese-poetry/blob/master/蒙学/guwenguanzhi.json"
+  },
+  {
+    "work_id": "si-ma",
+    "scope": "小学",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/司马光"
+  },
+  {
+    "work_id": "shou-zhu",
+    "scope": "小学",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/守株待兔"
+  },
+  {
+    "work_id": "wang-rong",
+    "scope": "小学",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/王戎不取道旁李"
+  },
+  {
+    "work_id": "nang-ying",
+    "scope": "小学",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/囊萤夜读"
+  },
+  {
+    "work_id": "tie-chu",
+    "scope": "小学",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/铁杵成针"
+  },
+  {
+    "work_id": "yang-shi",
+    "scope": "小学",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/杨氏之子"
+  },
+  {
+    "work_id": "mao-dun",
+    "scope": "小学",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/自相矛盾"
+  },
+  {
+    "work_id": "bo-ya",
+    "scope": "六年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/伯牙鼓琴"
+  },
+  {
+    "work_id": "dai-song",
+    "scope": "六年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/书戴嵩画牛"
+  },
+  {
+    "work_id": "bian-ri",
+    "scope": "六年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/两小儿辩日"
+  },
+  {
+    "work_id": "chen-tai",
+    "scope": "六年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/陈太丘与友期行"
+  },
+  {
+    "work_id": "yong-xue",
+    "scope": "六年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/咏雪"
+  },
+  {
+    "work_id": "jie-zi",
+    "scope": "七年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/诫子书"
+  },
+  {
+    "work_id": "sun-quan",
+    "scope": "七年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/孙权劝学"
+  },
+  {
+    "work_id": "mai-you",
+    "scope": "七年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/卖油翁"
+  },
+  {
+    "work_id": "san-xia",
+    "scope": "八年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/三峡"
+  },
+  {
+    "work_id": "cheng-tian",
+    "scope": "八年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/记承天寺夜游"
+  },
+  {
+    "work_id": "da-xie",
+    "scope": "八年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/答谢中书书"
+  },
+  {
+    "work_id": "zhu-yuan",
+    "scope": "八年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/与朱元思书"
+  },
+  {
+    "work_id": "hu-xin",
+    "scope": "九年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/湖心亭看雪"
+  },
+  {
+    "work_id": "jing-wei",
+    "scope": "小学",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/精卫填海"
+  },
+  {
+    "work_id": "du-shu",
+    "scope": "小学",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/古人谈读书·读书有三到"
+  },
+  {
+    "work_id": "lang",
+    "scope": "七年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/狼"
+  },
+  {
+    "work_id": "chuan-jing",
+    "scope": "七年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/穿井得一人"
+  },
+  {
+    "work_id": "qi-ren",
+    "scope": "七年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/杞人忧天"
+  },
+  {
+    "work_id": "xiao-shi",
+    "scope": "八年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/小石潭记"
+  },
+  {
+    "work_id": "he-zhong",
+    "scope": "七年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/河中石兽"
+  },
+  {
+    "work_id": "yu-gong",
+    "scope": "八年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/愚公移山"
+  },
+  {
+    "work_id": "ailian-full",
+    "scope": "七年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://zh.wikisource.org/wiki/爱莲说"
+  },
+  {
+    "work_id": "yu-wo",
+    "scope": "九年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://github.com/gujilab/chinese-classical-corpus/blob/main/output/sishu/mengzi.json"
+  },
+  {
+    "work_id": "fu-gui",
+    "scope": "八年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://github.com/gujilab/chinese-classical-corpus/blob/main/output/sishu/mengzi.json"
+  },
+  {
+    "work_id": "sheng-yu",
+    "scope": "八年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://github.com/gujilab/chinese-classical-corpus/blob/main/output/sishu/mengzi.json"
+  },
+  {
+    "work_id": "lunyu-12",
+    "scope": "六年级",
+    "classification": "阅读推荐 / 教材归属待核",
+    "source": "https://github.com/gujilab/chinese-classical-corpus/blob/main/output/sishu/lunyu.json"
+  },
+  {
+    "work_id": "xueyi",
+    "scope": "六年级",
+    "classification": "旧样例 / 待完整选文替换",
+    "source": "首批样例"
+  }
+]

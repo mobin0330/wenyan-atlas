@@ -1,0 +1,28 @@
+{
+  "passed": 22,
+  "checks": [
+    "1440: task-first start",
+    "1440: no unverified text promoted to textbook",
+    "1440: exact textbook trail",
+    "1440: textbook gloss in word card",
+    "1440: word-class browsing",
+    "1440: keyword help persists into hidden mode",
+    "1440: recitation selection/mask/reveal/save",
+    "1440: exact saved selection restores after reload",
+    "1440: separate persisted practice history",
+    "1440: five stories and downloadable manuals",
+    "1440: no horizontal overflow",
+    "390: task-first start",
+    "390: no unverified text promoted to textbook",
+    "390: exact textbook trail",
+    "390: textbook gloss in word card",
+    "390: word-class browsing",
+    "390: keyword help persists into hidden mode",
+    "390: recitation selection/mask/reveal/save",
+    "390: exact saved selection restores after reload",
+    "390: separate persisted practice history",
+    "390: five stories and downloadable manuals",
+    "390: no horizontal overflow"
+  ],
+  "errors": []
+}

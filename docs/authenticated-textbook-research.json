@@ -1,0 +1,41 @@
+{
+  "gateway": "isolated local fake; production shared SDK unchanged; no email sent",
+  "checks": [
+    {
+      "path": "/api/textbooks",
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "chars": 45979
+    },
+    {
+      "path": "/api/textbooks/content",
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "chars": 53450
+    },
+    {
+      "path": "/api/textbooks/requirements",
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "chars": 25350
+    },
+    {
+      "path": "/api/handbook/textbooks",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "chars": 11133
+    },
+    {
+      "path": "/api/handbook/textbook-directories",
+      "status": 200,
+      "content_type": "text/markdown; charset=utf-8",
+      "chars": 19068
+    },
+    {
+      "path": "/api/handbook/textbook-inventory",
+      "status": 200,
+      "content_type": "text/csv; charset=utf-8",
+      "chars": 4912
+    }
+  ]
+}

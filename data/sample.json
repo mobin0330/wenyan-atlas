@@ -1,0 +1,502 @@
+{
+  "sources": [
+    {
+      "id": "mengzi",
+      "title": "《孟子·告子上》第九章",
+      "url": "https://zh.wikisource.org/w/index.php?title=孟子/告子上&oldid=2637004",
+      "revision": "oldid=2637004",
+      "rights": "古代原作公有领域；维基文库整理层按 CC BY-SA 4.0 署名并保留链接",
+      "note": "仅取原文，自行简化字与分句；未复制现代教材注释。释义为本项目待审核稿。"
+    },
+    {
+      "id": "loushi",
+      "title": "《陋室铭》",
+      "url": "https://zh.wikisource.org/w/index.php?title=陋室銘&oldid=11122639",
+      "revision": "oldid=11122639",
+      "rights": "古代原作公有领域；维基文库整理层按 CC BY-SA 4.0 署名并保留链接",
+      "note": "仅取原文，自行简化字与分句；未复制现代教材注释。释义为本项目待审核稿。"
+    },
+    {
+      "id": "ailian",
+      "title": "《爱莲说》",
+      "url": "https://zh.wikisource.org/wiki/愛蓮說",
+      "revision": "2026-11-04 查阅；后续人审应固定修订号",
+      "rights": "古代原作公有领域；维基文库整理层按 CC BY-SA 4.0 署名并保留链接",
+      "note": "仅取原文，自行简化字与分句；未复制现代教材注释。释义为本项目待审核稿。"
+    }
+  ],
+  "works": [
+    {
+      "id": "xueyi",
+      "title": "学弈",
+      "author": "《孟子》",
+      "era": "先秦",
+      "intro": "比较两位学习者的注意力与结果。节选自《告子上》，标题为常用选段名，未确认教材归属。",
+      "source_id": "mengzi",
+      "status": "pending",
+      "version": "sample-0.1.0"
+    },
+    {
+      "id": "loushi",
+      "title": "陋室铭",
+      "author": "刘禹锡",
+      "era": "唐",
+      "intro": "借居室陈设和交往说明志趣。这里以原典节选呈现，不代替教材全文。",
+      "source_id": "loushi",
+      "status": "pending",
+      "version": "sample-0.1.0"
+    },
+    {
+      "id": "ailian",
+      "title": "爱莲说",
+      "author": "周敦颐",
+      "era": "北宋",
+      "intro": "以莲的生长与姿态寄托志趣。这里以原典节选呈现，不代替教材全文。",
+      "source_id": "ailian",
+      "status": "pending",
+      "version": "sample-0.1.0"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "xueyi-1",
+      "work_id": "xueyi",
+      "position": 1,
+      "text": "弈秋，通国之善弈者也。",
+      "source_text": "弈秋，通國之善弈者也。",
+      "explanation": "弈秋是全国擅长下棋的人。",
+      "status": "pending"
+    },
+    {
+      "id": "xueyi-2",
+      "work_id": "xueyi",
+      "position": 2,
+      "text": "使弈秋诲二人弈：其一人专心致志，惟弈秋之为听；一人虽听之，一心以为有鸿鹄将至，思援弓缴而射之。",
+      "source_text": "使弈秋誨二人弈：其一人專心致志，惟弈秋之為聽；一人雖聽之，一心以為有鴻鵠將至，思援弓繳而射之。",
+      "explanation": "两人同学下棋，一人专心，一人想着射鸟。原典用“惟”，不替换为未经核对的教材字形。",
+      "status": "pending"
+    },
+    {
+      "id": "xueyi-3",
+      "work_id": "xueyi",
+      "position": 3,
+      "text": "虽与之俱学，弗若之矣。",
+      "source_text": "雖與之俱學，弗若之矣。",
+      "explanation": "虽然一起学习，结果却不如那位专心的人。",
+      "status": "pending"
+    },
+    {
+      "id": "xueyi-4",
+      "work_id": "xueyi",
+      "position": 4,
+      "text": "为是其智弗若与？曰：非然也。",
+      "source_text": "為是其智弗若與？曰：非然也。",
+      "explanation": "这是因为他的智力不如对方吗？回答：不是这样。",
+      "status": "pending"
+    },
+    {
+      "id": "loushi-1",
+      "work_id": "loushi",
+      "position": 1,
+      "text": "山不在高，有仙则名。水不在深，有龙则灵。",
+      "source_text": "山不在高，有仙則名。水不在深，有龍則靈。",
+      "explanation": "开篇用山水作比。",
+      "status": "pending"
+    },
+    {
+      "id": "loushi-2",
+      "work_id": "loushi",
+      "position": 2,
+      "text": "斯是陋室，惟吾德馨。",
+      "source_text": "斯是陋室，惟吾德馨。",
+      "explanation": "居所虽简陋，重在居住者的品德。",
+      "status": "pending"
+    },
+    {
+      "id": "loushi-3",
+      "work_id": "loushi",
+      "position": 3,
+      "text": "无丝竹之乱耳，无案牍之劳形。",
+      "source_text": "無絲竹之亂耳，無案牘之勞形。",
+      "explanation": "以两组主谓结构写没有喧闹声和公文带来的烦扰。",
+      "status": "pending"
+    },
+    {
+      "id": "loushi-4",
+      "work_id": "loushi",
+      "position": 4,
+      "text": "孔子云：何陋之有？",
+      "source_text": "孔子云：何陋之有？",
+      "explanation": "“何陋”移到“有”前面；具体语法标签留待教师复核。",
+      "status": "pending"
+    },
+    {
+      "id": "ailian-1",
+      "work_id": "ailian",
+      "position": 1,
+      "text": "水陆草木之花，可爱者甚蕃。",
+      "source_text": "水陸草木之花，可愛者甚蕃。",
+      "explanation": "水上陆地上的花，值得喜爱的很多。",
+      "status": "pending"
+    },
+    {
+      "id": "ailian-2",
+      "work_id": "ailian",
+      "position": 2,
+      "text": "予独爱莲之出淤泥而不染，濯清涟而不妖。",
+      "source_text": "予獨愛蓮之出淤泥而不染，濯清漣而不妖。",
+      "explanation": "写莲的生长环境和姿态，用来表达作者的欣赏。",
+      "status": "pending"
+    },
+    {
+      "id": "ailian-3",
+      "work_id": "ailian",
+      "position": 3,
+      "text": "予谓菊，花之隐逸者也；牡丹，花之富贵者也；莲，花之君子者也。",
+      "source_text": "予謂菊，花之隱逸者也；牡丹，花之富貴者也；蓮，花之君子者也。",
+      "explanation": "用不同的人格类型比喻三种花。",
+      "status": "pending"
+    }
+  ],
+  "lexemes": [
+    {
+      "id": "zhi",
+      "text": "之"
+    },
+    {
+      "id": "er",
+      "text": "而"
+    },
+    {
+      "id": "qi",
+      "text": "其"
+    }
+  ],
+  "senses": [
+    {
+      "id": "zhi-pronoun",
+      "lexeme_id": "zhi",
+      "label": "指代人或事物",
+      "definition": "在句中代替前文提到的人、物或事情，具体指什么必须回看语境。",
+      "grammar": "代词",
+      "reading": "zhī",
+      "source_id": "mengzi",
+      "note": "“听之”“射之”“与之”里的指代对象不同，不能只背“他”。",
+      "status": "pending"
+    },
+    {
+      "id": "zhi-of",
+      "lexeme_id": "zhi",
+      "label": "连接修饰关系",
+      "definition": "连接修饰成分与中心词，有些语境可以用现代汉语“的”帮助理解。",
+      "grammar": "结构助词",
+      "reading": "zhī",
+      "source_id": "ailian",
+      "note": "“通国之善弈者”“草木之花”可对照；不能把所有“之”都译作“的”。",
+      "status": "pending"
+    },
+    {
+      "id": "zhi-clause",
+      "lexeme_id": "zhi",
+      "label": "用于主谓之间",
+      "definition": "把主谓结构连成句中的一个成分，传统教学常称“取消句子独立性”，一般不单独译出。",
+      "grammar": "助词",
+      "reading": "zhī",
+      "source_id": "loushi",
+      "note": "标签为本项目候选解释，尚未对照目标版教材或教师审核。",
+      "status": "pending"
+    },
+    {
+      "id": "zhi-front",
+      "lexeme_id": "zhi",
+      "label": "宾语前置标志",
+      "definition": "“何陋之有”可按“有何陋”理解，这里的“之”不指代具体人物。",
+      "grammar": "句式标志",
+      "reading": "zhī",
+      "source_id": "loushi",
+      "note": "只标注本句，不自动推广到“菊之爱”等有不同分析的例子。",
+      "status": "pending"
+    },
+    {
+      "id": "er-turn",
+      "lexeme_id": "er",
+      "label": "表示转折",
+      "definition": "前后意思有转折，可尝试用“却”理解，再检查是否符合句意。",
+      "grammar": "连词",
+      "reading": "ér",
+      "source_id": "ailian",
+      "note": "只解释本处语境。",
+      "status": "pending"
+    },
+    {
+      "id": "er-link",
+      "lexeme_id": "er",
+      "label": "连接动作",
+      "definition": "把前后动作连接起来，先理解动作关系，再决定现代汉语表达。",
+      "grammar": "连词",
+      "reading": "ér",
+      "source_id": "mengzi",
+      "note": "不强行给所有动作关系加统一“承接”结论。",
+      "status": "pending"
+    },
+    {
+      "id": "qi-pronoun",
+      "lexeme_id": "qi",
+      "label": "表示其中或他的",
+      "definition": "结合所在短语判断指代范围；“其一人”是其中一人。",
+      "grammar": "代词",
+      "reading": "qí",
+      "source_id": "mengzi",
+      "note": "当前只纳入“其一人”的示例。",
+      "status": "pending"
+    }
+  ],
+  "occurrences": [
+    {
+      "id": "occ-1",
+      "sentence_id": "xueyi-1",
+      "lexeme_id": "zhi",
+      "sense_id": "zhi-of",
+      "start": 5,
+      "end": 6,
+      "note": "修饰关系：通国 → 善弈者。",
+      "status": "pending"
+    },
+    {
+      "id": "occ-2",
+      "sentence_id": "xueyi-2",
+      "lexeme_id": "zhi",
+      "sense_id": "zhi-pronoun",
+      "start": 27,
+      "end": 28,
+      "note": "“听之”指听弈秋讲授；须和“射之”的对象区分。",
+      "status": "pending"
+    },
+    {
+      "id": "occ-3",
+      "sentence_id": "xueyi-2",
+      "lexeme_id": "zhi",
+      "sense_id": "zhi-pronoun",
+      "start": 45,
+      "end": 46,
+      "note": "“射之”指向前文鸿鹄。",
+      "status": "pending"
+    },
+    {
+      "id": "occ-4",
+      "sentence_id": "xueyi-3",
+      "lexeme_id": "zhi",
+      "sense_id": "zhi-pronoun",
+      "start": 2,
+      "end": 3,
+      "note": "指那位专心学习的人。",
+      "status": "pending"
+    },
+    {
+      "id": "occ-5",
+      "sentence_id": "xueyi-3",
+      "lexeme_id": "zhi",
+      "sense_id": "zhi-pronoun",
+      "start": 8,
+      "end": 9,
+      "note": "仍指专心学习的人。",
+      "status": "pending"
+    },
+    {
+      "id": "occ-6",
+      "sentence_id": "ailian-1",
+      "lexeme_id": "zhi",
+      "sense_id": "zhi-of",
+      "start": 4,
+      "end": 5,
+      "note": "修饰关系：草木 → 花。",
+      "status": "pending"
+    },
+    {
+      "id": "occ-7",
+      "sentence_id": "ailian-3",
+      "lexeme_id": "zhi",
+      "sense_id": "zhi-of",
+      "start": 5,
+      "end": 6,
+      "note": "花 → 隐逸者。",
+      "status": "pending"
+    },
+    {
+      "id": "occ-8",
+      "sentence_id": "ailian-2",
+      "lexeme_id": "zhi",
+      "sense_id": "zhi-clause",
+      "start": 4,
+      "end": 5,
+      "note": "莲 → 出淤泥而不染。",
+      "status": "pending"
+    },
+    {
+      "id": "occ-9",
+      "sentence_id": "loushi-3",
+      "lexeme_id": "zhi",
+      "sense_id": "zhi-clause",
+      "start": 3,
+      "end": 4,
+      "note": "丝竹 → 乱耳。",
+      "status": "pending"
+    },
+    {
+      "id": "occ-10",
+      "sentence_id": "loushi-3",
+      "lexeme_id": "zhi",
+      "sense_id": "zhi-clause",
+      "start": 10,
+      "end": 11,
+      "note": "案牍 → 劳形。",
+      "status": "pending"
+    },
+    {
+      "id": "occ-11",
+      "sentence_id": "loushi-4",
+      "lexeme_id": "zhi",
+      "sense_id": "zhi-front",
+      "start": 6,
+      "end": 7,
+      "note": "原语序为“何陋之有”。",
+      "status": "pending"
+    },
+    {
+      "id": "occ-12",
+      "sentence_id": "ailian-2",
+      "lexeme_id": "er",
+      "sense_id": "er-turn",
+      "start": 8,
+      "end": 9,
+      "note": "身处淤泥，却不被沾染。",
+      "status": "pending"
+    },
+    {
+      "id": "occ-13",
+      "sentence_id": "ailian-2",
+      "lexeme_id": "er",
+      "sense_id": "er-turn",
+      "start": 15,
+      "end": 16,
+      "note": "洗濯却不显得妖艳。",
+      "status": "pending"
+    },
+    {
+      "id": "occ-14",
+      "sentence_id": "xueyi-2",
+      "lexeme_id": "er",
+      "sense_id": "er-link",
+      "start": 43,
+      "end": 44,
+      "note": "拉弓和射鸟两个动作相连接。",
+      "status": "pending"
+    },
+    {
+      "id": "occ-15",
+      "sentence_id": "xueyi-2",
+      "lexeme_id": "qi",
+      "sense_id": "qi-pronoun",
+      "start": 8,
+      "end": 9,
+      "note": "“其一人”指两人中的一个人。",
+      "status": "pending"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-1",
+      "occurrence_id": "occ-2",
+      "prompt": "“一人虽听之”中的“之”，应结合哪一项来理解？",
+      "choices": [
+        "弈秋的讲授",
+        "鸿鹄",
+        "现代汉语“的”"
+      ],
+      "answer": 0,
+      "explanation": "“听之”指听弈秋讲授；须和“射之”的对象区分。",
+      "hint": "先看“听”这个动作，再回看前文是谁在教授。",
+      "status": "pending",
+      "version": "sample-0.1.0"
+    },
+    {
+      "id": "q-2",
+      "occurrence_id": "occ-3",
+      "prompt": "“思援弓缴而射之”中的“之”指什么？",
+      "choices": [
+        "弈秋",
+        "鸿鹄",
+        "学习下棋"
+      ],
+      "answer": 1,
+      "explanation": "“射之”指向前文鸿鹄。",
+      "hint": "回到前半句，找出这个人想象中将要到来的对象。",
+      "status": "pending",
+      "version": "sample-0.1.0"
+    },
+    {
+      "id": "q-3",
+      "occurrence_id": "occ-6",
+      "prompt": "“水陆草木之花”中的“之”与哪一种用法相近？",
+      "choices": [
+        "通国之善弈者也",
+        "一人虽听之",
+        "思援弓缴而射之"
+      ],
+      "answer": 0,
+      "explanation": "修饰关系：草木 → 花。",
+      "hint": "观察它前后的词：是否在说“哪一类的什么”？",
+      "status": "pending",
+      "version": "sample-0.1.0"
+    },
+    {
+      "id": "q-4",
+      "occurrence_id": "occ-8",
+      "prompt": "“莲之出淤泥而不染”与哪句的结构较接近？",
+      "choices": [
+        "无丝竹之乱耳",
+        "思援弓缴而射之",
+        "通国之善弈者也"
+      ],
+      "answer": 0,
+      "explanation": "莲 → 出淤泥而不染。",
+      "hint": "比较“莲—出淤泥”与“丝竹—乱耳”是否分别构成主谓关系。",
+      "status": "pending",
+      "version": "sample-0.1.0"
+    },
+    {
+      "id": "q-5",
+      "occurrence_id": "occ-11",
+      "prompt": "“何陋之有”按通常语序可怎样理解？",
+      "choices": [
+        "有何陋",
+        "何之有陋",
+        "有之何陋"
+      ],
+      "answer": 0,
+      "explanation": "原语序为“何陋之有”。",
+      "hint": "先找到动词“有”，再找它询问的对象。",
+      "status": "pending",
+      "version": "sample-0.1.0"
+    },
+    {
+      "id": "q-6",
+      "occurrence_id": "occ-12",
+      "prompt": "“出淤泥而不染”中，“而”前后的意思是？",
+      "choices": [
+        "转折",
+        "指代",
+        "修饰"
+      ],
+      "answer": 0,
+      "explanation": "身处淤泥，却不被沾染。",
+      "hint": "前面说环境，后面说没有受到这种环境的影响。",
+      "status": "pending",
+      "version": "sample-0.1.0"
+    }
+  ],
+  "textbook_editions": [],
+  "volumes": [],
+  "memberships": [],
+  "version": "sample-0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "/": {
+    "status": 200,
+    "sdk_version": "1.0.0",
+    "bytes": 1630
+  },
+  "/style.css": {
+    "status": 200,
+    "sdk_version": "1.0.0",
+    "bytes": 18841
+  },
+  "/app.js": {
+    "status": 200,
+    "sdk_version": "1.0.0",
+    "bytes": 32828
+  },
+  "/api/bootstrap": {
+    "status": 401,
+    "body": "{\"error\": \"请先通过安全模块登录\"}"
+  }
+}

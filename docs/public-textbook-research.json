@@ -1,0 +1,48 @@
+{
+  "transport": "Mac configured system HTTP proxy 127.0.0.1:7900; no rules changed",
+  "results": [
+    {
+      "path": "/",
+      "status": 200,
+      "returncode": 0,
+      "sdk_1_1": true,
+      "shared_login": true
+    },
+    {
+      "path": "/api/textbooks",
+      "status": 401,
+      "returncode": 0,
+      "sdk_1_1": true
+    },
+    {
+      "path": "/api/textbooks/content",
+      "status": 401,
+      "returncode": 0,
+      "sdk_1_1": true
+    },
+    {
+      "path": "/api/textbooks/requirements",
+      "status": 401,
+      "returncode": 0,
+      "sdk_1_1": true
+    },
+    {
+      "path": "/api/handbook/textbooks",
+      "status": 401,
+      "returncode": 0,
+      "sdk_1_1": true
+    },
+    {
+      "path": "/api/handbook/textbook-directories",
+      "status": 401,
+      "returncode": 0,
+      "sdk_1_1": true
+    },
+    {
+      "path": "/api/handbook/textbook-inventory",
+      "status": 401,
+      "returncode": 0,
+      "sdk_1_1": true
+    }
+  ]
+}

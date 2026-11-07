@@ -1,0 +1,9 @@
+{
+  "hint_focus": true,
+  "choice_focus": true,
+  "feedback_focus": true,
+  "exact_source_focus": true,
+  "scope_focus": true,
+  "mobile_theme": true,
+  "same_map_sense_focus": true
+}

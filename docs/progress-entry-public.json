@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/",
+    "status": 200,
+    "shared_login": true
+  },
+  {
+    "path": "/app.js",
+    "status": 200,
+    "new_entry": true
+  },
+  {
+    "path": "/api/work-status",
+    "status": 401
+  },
+  {
+    "path": "/api/auth/options",
+    "status": 200,
+    "email_available": true,
+    "sdk_version": "1.1.0"
+  }
+]

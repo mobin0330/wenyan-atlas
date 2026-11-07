@@ -1,0 +1,20 @@
+{
+  "/": {
+    "status": 200,
+    "sdk_version": "1.0.0"
+  },
+  "/app.js": {
+    "status": 200,
+    "sdk_version": "1.0.0",
+    "contains_recitation_and_guide": true
+  },
+  "/api/guide": {
+    "status": 401
+  },
+  "/api/recitation": {
+    "status": 401
+  },
+  "/api/handbook/manual": {
+    "status": 401
+  }
+}

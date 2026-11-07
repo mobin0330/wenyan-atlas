@@ -1,0 +1,9 @@
+{
+  "dataset": "3 works / 15 occurrences; local loopback, warm single client",
+  "requests": 20,
+  "median_ms": 2.81,
+  "p95_ms": 5.46,
+  "graph_response_bytes": 3451,
+  "server_rss_mib": 35.5,
+  "not_a_load_test": true
+}

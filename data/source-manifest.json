@@ -1,0 +1,16 @@
+{
+  "chinese-poetry/chinese-poetry": {
+    "commit_at_retrieval": "b8594f81a89752241442f2ce267d6f66f96704ee",
+    "note": "Local cache checksums are authoritative for the exact downloaded bytes."
+  },
+  "gujilab/chinese-classical-corpus": {
+    "commit_at_retrieval": "09a6873e46760f20027e20bf48814f5c5cc05d66",
+    "note": "Local cache checksums are authoritative for the exact downloaded bytes."
+  },
+  "files": {
+    "mengzi.json": "2994f27fb419fe3586e43bc2cf7cd47dd06459c35bbe24ca9e0b1d5200a8da91",
+    "pep_catalog.json": "1f462255c3287402f2327bccde63224937fc716a56aa8b4797c7fe73bf971ec3",
+    "lunyu.json": "f13d9c09ef25935c4f22ba9b6f3f78cced0a075e917cc91f403b844c32484dde",
+    "guwen.json": "ba10ec02849d58bebcc8da575dda3da07a1123e2a31dab3f734acd95d48c5cac"
+  }
+}

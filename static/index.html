@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#176a50"><meta name="description" content="从原文出发，连接文言字词的不同用法。"><title>文言星图 · 把知识连起来</title><link rel="icon" href="/icon.svg" type="image/svg+xml"><link rel="manifest" href="/manifest.webmanifest"><link rel="stylesheet" href="/style.css"><script type="module" src="/app.js"></script>
+</head>
+<body>
+<a class="skip" href="#main">跳到学习内容</a>
+<div class="shell">
+<aside class="sidebar">
+<a class="brand" href="#map/zhi"><svg width="38" height="38" viewBox="0 0 38 38" aria-hidden="true"><rect width="38" height="38" rx="12" fill="currentColor"/><path d="M10 11h8v17h-8zm10 0h8v17h-8M14 15v9m10-9v9" fill="none" stroke="#fff" stroke-width="1.7"/></svg><span>文言星图<small>把知识连起来</small></span></a>
+<nav aria-label="主要导航"><a href="#map/zhi" data-nav="map">知识地图</a><a href="#library" data-nav="library">学课文</a><a href="#words" data-nav="words">字词与用法</a><a href="#practice" data-nav="practice">辨析练习</a><a href="#progress" data-nav="progress">我的积累</a></nav>
+<details id="scope-picker" class="scope-box" open><summary>学习范围 <span id="scope-summary">小学</span></summary><p>可多选，至少保留一项</p><div id="scopes" class="scope-options"></div><p class="scope-note">范围不代替教材版本。<br>待核资料独立列出。</p></details>
+<div class="sidebar-bottom"><a href="#guide">使用手册与整理进度</a><a href="#sources">内容来源与审核</a><button id="theme" class="quiet" aria-label="切换深浅主题">切换深浅主题</button><small>从语境出发，每次理解一点。</small></div>
+</aside>
+<div class="workspace"><header class="topbar"><button id="mobile-theme" class="mobile-theme" aria-label="切换深浅主题">外观</button><div id="mode-label">本地样例工作台</div><form id="search" role="search"><label class="sr-only" for="query">搜索字词、篇目或用法</label><input id="query" type="search" placeholder="搜索字词、篇目或用法" maxlength="80"><button type="submit" aria-label="搜索"><svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="6"/><path d="m15 15 5 5"/></svg></button></form></header>
+<div id="notice" class="notice"></div><main id="main" tabindex="-1" aria-busy="true"><div class="loading">正在整理知识关系…</div></main><footer>文言星图 · 从一句原文，走向更多理解。</footer></div>
+</div><div id="toast" role="status" aria-live="polite"></div>
+</body></html>

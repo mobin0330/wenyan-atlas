@@ -1,0 +1,962 @@
+{
+  "checked_at": "2026-11-05",
+  "notice": "所见版本学习要求的语义整理，不是学校当前版或教学大纲最终审核结果。不自动同步学习记录。",
+  "items": [
+    {
+      "inventory_id": "prose-observation-01",
+      "title": "司马光",
+      "grade": 3,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91242997.html",
+      "source_sha256": "12b29f610d16b5e134c88436530eafd3f815979427fc5935f3c1e08efc28b7e1",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "司马光"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-02",
+      "title": "守株待兔",
+      "grade": 3,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91242998.html",
+      "source_sha256": "c20a868b478da3f8c2118f90c5628bd14e4cb20b3b57b7566b54d2be5b2a536c",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "守株待兔"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-03",
+      "title": "精卫填海",
+      "grade": 4,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91243004.html",
+      "source_sha256": "9deca7c2eef04c1d8ca92e08f44425e983f0e318fed710bb0acc378b7828cc38",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "精卫填海"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-04",
+      "title": "王戎不取道旁李",
+      "grade": 4,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91243004.html",
+      "source_sha256": "9deca7c2eef04c1d8ca92e08f44425e983f0e318fed710bb0acc378b7828cc38",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "王戎不取道旁李"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-05",
+      "title": "囊萤夜读",
+      "grade": 4,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91243005.html",
+      "source_sha256": "23a6f7cb08aa743d98e2b94218b2b7ba809b743864e5a2bdc6b349a233fff0b2",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "囊萤夜读"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-06",
+      "title": "铁杵成针",
+      "grade": 4,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91243005.html",
+      "source_sha256": "23a6f7cb08aa743d98e2b94218b2b7ba809b743864e5a2bdc6b349a233fff0b2",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "group_instruction_disambiguated",
+      "tasks": [
+        {
+          "type": "read",
+          "range": "本篇",
+          "object": "铁杵成针"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "合篇中的背诵指令指向另一子篇，不能继承为本篇必背。"
+    },
+    {
+      "inventory_id": "prose-observation-07",
+      "title": "古人谈读书",
+      "grade": 5,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91243002.html",
+      "source_sha256": "6392db947d600ef39adbc892854fa737a7c2558a8950afa5fd05533d1b624767",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "古人谈读书"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-08",
+      "title": "自相矛盾",
+      "grade": 5,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91243003.html",
+      "source_sha256": "e3b2200498a8b0f6e3953f32cfe49951a307959e8b7962f5f5c5cfd3dbd6069a",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "自相矛盾"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-09",
+      "title": "杨氏之子",
+      "grade": 5,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91243003.html",
+      "source_sha256": "e3b2200498a8b0f6e3953f32cfe49951a307959e8b7962f5f5c5cfd3dbd6069a",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "杨氏之子"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-10",
+      "title": "两小儿辩日",
+      "grade": 6,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248583.html",
+      "source_sha256": "f8a6d28065fa48257eaecd9d8aa0994b82345cea929864c4d931a90863f10834",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "两小儿辩日"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-11",
+      "title": "曹冲称象",
+      "grade": 6,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248583.html",
+      "source_sha256": "f8a6d28065fa48257eaecd9d8aa0994b82345cea929864c4d931a90863f10834",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "group_instruction_disambiguated",
+      "tasks": [
+        {
+          "type": "read",
+          "range": "本篇",
+          "object": "曹冲称象"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "合篇中的背诵指令指向另一子篇，不能继承为本篇必背。"
+    },
+    {
+      "inventory_id": "prose-observation-12",
+      "title": "学弈",
+      "grade": 6,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248584.html",
+      "source_sha256": "24cbac2f6cd9f896caeadb08f894251027684a94934d82d9a2250cb79d5c9e7c",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "observed_reading_instruction",
+      "tasks": [
+        {
+          "type": "read_fluently",
+          "range": "本篇",
+          "object": "学弈"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见修订本强调熟读、理解与讨论，未据此设置全文必背。"
+    },
+    {
+      "inventory_id": "prose-observation-13",
+      "title": "关尹子教射",
+      "grade": 6,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248584.html",
+      "source_sha256": "24cbac2f6cd9f896caeadb08f894251027684a94934d82d9a2250cb79d5c9e7c",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "observed_reading_instruction",
+      "tasks": [
+        {
+          "type": "read_fluently",
+          "range": "本篇",
+          "object": "关尹子教射"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见修订本强调熟读、理解与讨论，未据此设置全文必背。"
+    },
+    {
+      "inventory_id": "prose-observation-14",
+      "title": "咏雪",
+      "grade": 7,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248576.html",
+      "source_sha256": "88a7a1b0c278af402f874c079b1290cad9a637483d147412bdc6f32259e89b0a",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "awaiting_exact_requirement_check",
+      "tasks": [],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "未确认该篇是否必背/必默；自主练习不能替代教材任务依据。"
+    },
+    {
+      "inventory_id": "prose-observation-15",
+      "title": "陈太丘与友期行",
+      "grade": 7,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248576.html",
+      "source_sha256": "88a7a1b0c278af402f874c079b1290cad9a637483d147412bdc6f32259e89b0a",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "awaiting_exact_requirement_check",
+      "tasks": [],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "未确认该篇是否必背/必默；自主练习不能替代教材任务依据。"
+    },
+    {
+      "inventory_id": "prose-observation-16",
+      "title": "论语十二章",
+      "grade": 7,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248576.html",
+      "source_sha256": "88a7a1b0c278af402f874c079b1290cad9a637483d147412bdc6f32259e89b0a",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "论语十二章"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-17",
+      "title": "诫子书",
+      "grade": 7,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248576.html",
+      "source_sha256": "88a7a1b0c278af402f874c079b1290cad9a637483d147412bdc6f32259e89b0a",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "诫子书"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-18",
+      "title": "狼",
+      "grade": 7,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248576.html",
+      "source_sha256": "88a7a1b0c278af402f874c079b1290cad9a637483d147412bdc6f32259e89b0a",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "awaiting_exact_requirement_check",
+      "tasks": [],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "未确认该篇是否必背/必默；自主练习不能替代教材任务依据。"
+    },
+    {
+      "inventory_id": "prose-observation-19",
+      "title": "穿井得一人",
+      "grade": 7,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248576.html",
+      "source_sha256": "88a7a1b0c278af402f874c079b1290cad9a637483d147412bdc6f32259e89b0a",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "awaiting_exact_requirement_check",
+      "tasks": [],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "未确认该篇是否必背/必默；自主练习不能替代教材任务依据。"
+    },
+    {
+      "inventory_id": "prose-observation-20",
+      "title": "杞人忧天",
+      "grade": 7,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248576.html",
+      "source_sha256": "88a7a1b0c278af402f874c079b1290cad9a637483d147412bdc6f32259e89b0a",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "awaiting_exact_requirement_check",
+      "tasks": [],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "未确认该篇是否必背/必默；自主练习不能替代教材任务依据。"
+    },
+    {
+      "inventory_id": "prose-observation-21",
+      "title": "孙权劝学",
+      "grade": 7,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248577.html",
+      "source_sha256": "4b9324be512e024d59133143fbd19048fd1ff4bf8f95e27b746ce1bc60fa5301",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "awaiting_exact_requirement_check",
+      "tasks": [],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "未确认该篇是否必背/必默；自主练习不能替代教材任务依据。"
+    },
+    {
+      "inventory_id": "prose-observation-22",
+      "title": "卖油翁",
+      "grade": 7,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248577.html",
+      "source_sha256": "4b9324be512e024d59133143fbd19048fd1ff4bf8f95e27b746ce1bc60fa5301",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "awaiting_exact_requirement_check",
+      "tasks": [],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "未确认该篇是否必背/必默；自主练习不能替代教材任务依据。"
+    },
+    {
+      "inventory_id": "prose-observation-23",
+      "title": "陋室铭",
+      "grade": 7,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248577.html",
+      "source_sha256": "4b9324be512e024d59133143fbd19048fd1ff4bf8f95e27b746ce1bc60fa5301",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "陋室铭"
+        },
+        {
+          "type": "dictation",
+          "range": "全文",
+          "object": "陋室铭"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-24",
+      "title": "爱莲说",
+      "grade": 7,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248577.html",
+      "source_sha256": "4b9324be512e024d59133143fbd19048fd1ff4bf8f95e27b746ce1bc60fa5301",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "爱莲说"
+        },
+        {
+          "type": "dictation",
+          "range": "全文",
+          "object": "爱莲说"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-25",
+      "title": "活板",
+      "grade": 7,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248577.html",
+      "source_sha256": "4b9324be512e024d59133143fbd19048fd1ff4bf8f95e27b746ce1bc60fa5301",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "awaiting_exact_requirement_check",
+      "tasks": [],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "未确认该篇是否必背/必默；自主练习不能替代教材任务依据。"
+    },
+    {
+      "inventory_id": "prose-observation-26",
+      "title": "三峡",
+      "grade": 8,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91244304.html",
+      "source_sha256": "fa455b51cfc25b16a2768332240374ce83dfbd9278f0c4602663a8ae60280f73",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "三峡"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-27",
+      "title": "答谢中书书",
+      "grade": 8,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91244304.html",
+      "source_sha256": "fa455b51cfc25b16a2768332240374ce83dfbd9278f0c4602663a8ae60280f73",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "答谢中书书"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-28",
+      "title": "记承天寺夜游",
+      "grade": 8,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91244304.html",
+      "source_sha256": "fa455b51cfc25b16a2768332240374ce83dfbd9278f0c4602663a8ae60280f73",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "记承天寺夜游"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-29",
+      "title": "与朱元思书",
+      "grade": 8,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91244304.html",
+      "source_sha256": "fa455b51cfc25b16a2768332240374ce83dfbd9278f0c4602663a8ae60280f73",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "与朱元思书"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-30",
+      "title": "得道多助，失道寡助",
+      "grade": 8,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91244304.html",
+      "source_sha256": "fa455b51cfc25b16a2768332240374ce83dfbd9278f0c4602663a8ae60280f73",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "得道多助，失道寡助"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-31",
+      "title": "富贵不能淫",
+      "grade": 8,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91244304.html",
+      "source_sha256": "fa455b51cfc25b16a2768332240374ce83dfbd9278f0c4602663a8ae60280f73",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "指定片段",
+          "start_anchor": "居天下之广居",
+          "end_anchor": "此之谓大丈夫",
+          "object": "富贵不能淫"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本要求指定片段，不能改为全文必背。"
+    },
+    {
+      "inventory_id": "prose-observation-32",
+      "title": "生于忧患，死于安乐",
+      "grade": 8,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91244304.html",
+      "source_sha256": "fa455b51cfc25b16a2768332240374ce83dfbd9278f0c4602663a8ae60280f73",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "生于忧患，死于安乐"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-33",
+      "title": "愚公移山",
+      "grade": 8,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91244304.html",
+      "source_sha256": "fa455b51cfc25b16a2768332240374ce83dfbd9278f0c4602663a8ae60280f73",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "awaiting_exact_requirement_check",
+      "tasks": [],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "未确认该篇是否必背/必默；自主练习不能替代教材任务依据。"
+    },
+    {
+      "inventory_id": "prose-observation-34",
+      "title": "周亚夫军细柳",
+      "grade": 8,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91244304.html",
+      "source_sha256": "fa455b51cfc25b16a2768332240374ce83dfbd9278f0c4602663a8ae60280f73",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "awaiting_exact_requirement_check",
+      "tasks": [],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "未确认该篇是否必背/必默；自主练习不能替代教材任务依据。"
+    },
+    {
+      "inventory_id": "prose-observation-35",
+      "title": "桃花源记",
+      "grade": 8,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248573.html",
+      "source_sha256": "183a0f017b9652a462f14897c2da937ad5be18c12faa22aa58591096bcc7ba2c",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "桃花源记"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-36",
+      "title": "小石潭记",
+      "grade": 8,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248573.html",
+      "source_sha256": "183a0f017b9652a462f14897c2da937ad5be18c12faa22aa58591096bcc7ba2c",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "小石潭记"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-37",
+      "title": "核舟记",
+      "grade": 8,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248573.html",
+      "source_sha256": "183a0f017b9652a462f14897c2da937ad5be18c12faa22aa58591096bcc7ba2c",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "awaiting_exact_requirement_check",
+      "tasks": [],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "未确认该篇是否必背/必默；自主练习不能替代教材任务依据。"
+    },
+    {
+      "inventory_id": "prose-observation-38",
+      "title": "北冥有鱼",
+      "grade": 8,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248573.html",
+      "source_sha256": "183a0f017b9652a462f14897c2da937ad5be18c12faa22aa58591096bcc7ba2c",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "北冥有鱼"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-39",
+      "title": "庄子与惠子游于濠梁之上",
+      "grade": 8,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248573.html",
+      "source_sha256": "183a0f017b9652a462f14897c2da937ad5be18c12faa22aa58591096bcc7ba2c",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "awaiting_exact_requirement_check",
+      "tasks": [],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "未确认该篇是否必背/必默；自主练习不能替代教材任务依据。"
+    },
+    {
+      "inventory_id": "prose-observation-40",
+      "title": "虽有嘉肴",
+      "grade": 8,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248573.html",
+      "source_sha256": "183a0f017b9652a462f14897c2da937ad5be18c12faa22aa58591096bcc7ba2c",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "虽有嘉肴"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-41",
+      "title": "大道之行也",
+      "grade": 8,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248573.html",
+      "source_sha256": "183a0f017b9652a462f14897c2da937ad5be18c12faa22aa58591096bcc7ba2c",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "大道之行也"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-42",
+      "title": "马说",
+      "grade": 8,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248573.html",
+      "source_sha256": "183a0f017b9652a462f14897c2da937ad5be18c12faa22aa58591096bcc7ba2c",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "马说"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-43",
+      "title": "岳阳楼记",
+      "grade": 9,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91244302.html",
+      "source_sha256": "fdcd9eb67a13c6fd8fe95604964beb56eb91f06f352d02a51207c8b19a9f6037",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "岳阳楼记"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-44",
+      "title": "醉翁亭记",
+      "grade": 9,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91244302.html",
+      "source_sha256": "fdcd9eb67a13c6fd8fe95604964beb56eb91f06f352d02a51207c8b19a9f6037",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "醉翁亭记"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-45",
+      "title": "湖心亭看雪",
+      "grade": 9,
+      "semester": "上",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91244302.html",
+      "source_sha256": "fdcd9eb67a13c6fd8fe95604964beb56eb91f06f352d02a51207c8b19a9f6037",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "awaiting_exact_requirement_check",
+      "tasks": [],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "未确认该篇是否必背/必默；自主练习不能替代教材任务依据。"
+    },
+    {
+      "inventory_id": "prose-observation-46",
+      "title": "鱼我所欲也",
+      "grade": 9,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248575.html",
+      "source_sha256": "f07cc54c6738d126810b06a5c93879661dc1fd13d2e115e918f9c89450c18f34",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "鱼我所欲也"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-47",
+      "title": "唐雎不辱使命",
+      "grade": 9,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248575.html",
+      "source_sha256": "f07cc54c6738d126810b06a5c93879661dc1fd13d2e115e918f9c89450c18f34",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "awaiting_exact_requirement_check",
+      "tasks": [],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "未确认该篇是否必背/必默；自主练习不能替代教材任务依据。"
+    },
+    {
+      "inventory_id": "prose-observation-48",
+      "title": "送东阳马生序",
+      "grade": 9,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248575.html",
+      "source_sha256": "f07cc54c6738d126810b06a5c93879661dc1fd13d2e115e918f9c89450c18f34",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "前两段",
+          "object": "送东阳马生序"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "段落划分以该版课文为准，不能用数据库句段序号代替。"
+    },
+    {
+      "inventory_id": "prose-observation-49",
+      "title": "曹刿论战",
+      "grade": 9,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248575.html",
+      "source_sha256": "f07cc54c6738d126810b06a5c93879661dc1fd13d2e115e918f9c89450c18f34",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "曹刿论战"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    },
+    {
+      "inventory_id": "prose-observation-50",
+      "title": "邹忌讽齐王纳谏",
+      "grade": 9,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248575.html",
+      "source_sha256": "f07cc54c6738d126810b06a5c93879661dc1fd13d2e115e918f9c89450c18f34",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "awaiting_exact_requirement_check",
+      "tasks": [],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "未确认该篇是否必背/必默；自主练习不能替代教材任务依据。"
+    },
+    {
+      "inventory_id": "prose-observation-51",
+      "title": "陈涉世家",
+      "grade": 9,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248575.html",
+      "source_sha256": "f07cc54c6738d126810b06a5c93879661dc1fd13d2e115e918f9c89450c18f34",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "awaiting_exact_requirement_check",
+      "tasks": [],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "未确认该篇是否必背/必默；自主练习不能替代教材任务依据。"
+    },
+    {
+      "inventory_id": "prose-observation-52",
+      "title": "出师表",
+      "grade": 9,
+      "semester": "下",
+      "source_url": "https://www.yeyulingfeng.com/wendang/91248575.html",
+      "source_sha256": "f07cc54c6738d126810b06a5c93879661dc1fd13d2e115e918f9c89450c18f34",
+      "location": "所见教材本课课后任务（精确图像页码待交叉核对）",
+      "status": "explicit_in_observed_copy",
+      "tasks": [
+        {
+          "type": "recite",
+          "range": "全文",
+          "object": "出师表"
+        }
+      ],
+      "school_current_edition_confirmed": false,
+      "teacher_reviewed": false,
+      "notes": "所见版本课后任务明确涉及本篇；学校当前版与教师安排仍待核对。"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "system":"上海五四学制人教版语文",
+  "edition_notice":"以下仅确认所列电子本中的目录位置。上传标题标称2024秋版，版权页年月未明确；不冒充已确认学校当前印次。",
+  "books":[
+    {"id":"pep54-7a-observed","title":"义务教育教科书（五·四学制）语文 七年级 上册","publisher":"人民教育出版社","grade":7,"semester":"上","edition":"所核对电子本（上传标题标称2024秋版；版权页版次年月待核）","url":"https://www.scribd.com/document/981548467/","official_url":"https://book.pep.com.cn/1311001101242/","evidence":"电子本封面、目录及对应正文位置比对；第三方托管，不是官方授权分发声明","checked_at":"2026-11-05"},
+    {"id":"pep54-6a-observed","title":"义务教育教科书（五·四学制）语文 六年级 上册","publisher":"人民教育出版社","grade":6,"semester":"上","edition":"所核对电子本（上传标题标称2024秋版；版权页版次年月待核）","url":"https://www.scribd.com/document/857089380/","official_url":"https://book.pep.com.cn/1311001601242/","evidence":"电子本封面、目录与第25课正文位置比对；第三方托管","checked_at":"2026-11-05"}
+  ],
+  "links":[
+    {"work_id":"yong-xue","book_id":"pep54-7a-observed","unit":"第二单元","lesson":"第8课《世说新语》二则·咏雪","page":"34","status":"directory_checked"},
+    {"work_id":"chen-tai","book_id":"pep54-7a-observed","unit":"第二单元","lesson":"第8课《世说新语》二则·陈太丘与友期行","page":"35","status":"directory_checked"},
+    {"work_id":"lunyu-12","book_id":"pep54-7a-observed","unit":"第三单元","lesson":"第12课《论语》十二章","page":"62–65","status":"directory_checked"},
+    {"work_id":"jie-zi","book_id":"pep54-7a-observed","unit":"第四单元","lesson":"第16课《诫子书》","page":"91–92","status":"directory_checked"},
+    {"work_id":"lang","book_id":"pep54-7a-observed","unit":"第五单元·活动探究","lesson":"第20课《狼》","page":"125–126","status":"directory_checked"},
+    {"work_id":"chuan-jing","book_id":"pep54-7a-observed","unit":"第六单元","lesson":"第24课《寓言四则》·穿井得一人","page":"146起（分篇页码待核）","status":"directory_checked"},
+    {"work_id":"qi-ren","book_id":"pep54-7a-observed","unit":"第六单元","lesson":"第24课《寓言四则》·杞人忧天","page":"146起（分篇页码待核）","status":"directory_checked"},
+    {"work_id":"bian-ri","book_id":"pep54-6a-observed","unit":"第七单元","lesson":"第25课《文言文二则》·两小儿辩日","page":"128–130（课文与练习）","status":"directory_checked"}
+  ],
+  "gloss_checks":[
+    {"work_id":"chen-tai","word":"顾","anchor":"元方入门不顾","gloss":"回头看","location":"p35 注释k","status":"note_compared","taxonomy":"实词","function":"动词"},
+    {"work_id":"chen-tai","word":"去","anchor":"太丘舍去","gloss":"离开；须结合舍去这个短语理解","location":"p35 注释d","status":"note_compared","taxonomy":"实词","function":"动词"},
+    {"work_id":"chen-tai","word":"乃","anchor":"去后乃至","gloss":"才","location":"p35 注释e","status":"note_compared","taxonomy":"虚词（本产品教学归类）","function":"副词"},
+    {"work_id":"lang","word":"洞","anchor":"一狼洞其中","gloss":"在堆积的柴草里挖洞","location":"p125 注释v","status":"note_compared","taxonomy":"实词","function":"名词活用为动词"},
+    {"work_id":"lang","word":"顾","anchor":"顾野有麦场","gloss":"看、视；本句观察周围环境","location":"p125 注释j","status":"note_compared","taxonomy":"实词","function":"动词"}
+  ]
+}

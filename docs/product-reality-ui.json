@@ -1,0 +1,21 @@
+{
+  "method": "实际应用和公共SDK，隔离数据库及模拟验证网关；未代替生产认证或发真实邮件",
+  "results": [
+    {
+      "viewport": 1440,
+      "visible_six_upper_titles": [
+        "两小儿辩日"
+      ],
+      "cao_chong_absent": true,
+      "javascript_errors": []
+    },
+    {
+      "viewport": 390,
+      "visible_six_upper_titles": [
+        "两小儿辩日"
+      ],
+      "cao_chong_absent": true,
+      "javascript_errors": []
+    }
+  ]
+}

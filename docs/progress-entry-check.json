@@ -1,0 +1,9 @@
+{
+  "gateway": "isolated local fake; real shared SDK; no emails sent",
+  "checks": [
+    "anonymous homepage shows shared login; progress API remains 401",
+    "390: homepage → manual → progress page → manual; truthful snapshot, no overflow",
+    "1440: homepage → manual → progress page → manual; truthful snapshot, no overflow"
+  ],
+  "javascript_errors": []
+}

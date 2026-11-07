@@ -1,0 +1,26 @@
+.local/
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
+
+.venv/
+
+# Local runtime, credentials and generated review artifacts
+.env
+.env.*
+!.env.example
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+*.pem
+*.key
+*.p12
+*.log
+security-client*.json
+.impeccable/*
+!.impeccable/design.json
+docs/deploy-state.json

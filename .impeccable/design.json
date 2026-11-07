@@ -1,0 +1,713 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-04T23:11:52.469504+00:00",
+  "title": "Design System: 文言星图",
+  "extensions": {
+    "colorMeta": {
+      "bg": {
+        "role": "neutral",
+        "displayName": "bg",
+        "tonalRamp": [
+          "oklch(0.150 0.0014 157.18)",
+          "oklch(0.260 0.0024 157.18)",
+          "oklch(0.380 0.0035 157.18)",
+          "oklch(0.500 0.0041 157.18)",
+          "oklch(0.620 0.0041 157.18)",
+          "oklch(0.740 0.0036 157.18)",
+          "oklch(0.860 0.0019 157.18)",
+          "oklch(0.950 0.0007 157.18)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "paper",
+        "tonalRamp": [
+          "oklch(0.150 0.0000 89.88)",
+          "oklch(0.260 0.0000 89.88)",
+          "oklch(0.380 0.0000 89.88)",
+          "oklch(0.500 0.0000 89.88)",
+          "oklch(0.620 0.0000 89.88)",
+          "oklch(0.740 0.0000 89.88)",
+          "oklch(0.860 0.0000 89.88)",
+          "oklch(0.950 0.0000 89.88)"
+        ]
+      },
+      "rail": {
+        "role": "neutral",
+        "displayName": "rail",
+        "tonalRamp": [
+          "oklch(0.150 0.0036 158.84)",
+          "oklch(0.260 0.0062 158.84)",
+          "oklch(0.380 0.0091 158.84)",
+          "oklch(0.500 0.0108 158.84)",
+          "oklch(0.620 0.0108 158.84)",
+          "oklch(0.740 0.0093 158.84)",
+          "oklch(0.860 0.0050 158.84)",
+          "oklch(0.950 0.0018 158.84)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "ink",
+        "tonalRamp": [
+          "oklch(0.150 0.0114 168.40)",
+          "oklch(0.260 0.0198 168.40)",
+          "oklch(0.380 0.0290 168.40)",
+          "oklch(0.500 0.0343 168.40)",
+          "oklch(0.620 0.0343 168.40)",
+          "oklch(0.740 0.0298 168.40)",
+          "oklch(0.860 0.0160 168.40)",
+          "oklch(0.950 0.0057 168.40)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "muted",
+        "tonalRamp": [
+          "oklch(0.150 0.0103 165.73)",
+          "oklch(0.260 0.0178 165.73)",
+          "oklch(0.380 0.0260 165.73)",
+          "oklch(0.500 0.0308 165.73)",
+          "oklch(0.620 0.0308 165.73)",
+          "oklch(0.740 0.0267 165.73)",
+          "oklch(0.860 0.0144 165.73)",
+          "oklch(0.950 0.0051 165.73)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "line",
+        "tonalRamp": [
+          "oklch(0.150 0.0053 154.45)",
+          "oklch(0.260 0.0092 154.45)",
+          "oklch(0.380 0.0135 154.45)",
+          "oklch(0.500 0.0160 154.45)",
+          "oklch(0.620 0.0160 154.45)",
+          "oklch(0.740 0.0138 154.45)",
+          "oklch(0.860 0.0074 154.45)",
+          "oklch(0.950 0.0027 154.45)"
+        ]
+      },
+      "accent": {
+        "role": "primary",
+        "displayName": "accent",
+        "tonalRamp": [
+          "oklch(0.150 0.0293 166.94)",
+          "oklch(0.260 0.0508 166.94)",
+          "oklch(0.380 0.0742 166.94)",
+          "oklch(0.500 0.0878 166.94)",
+          "oklch(0.620 0.0878 166.94)",
+          "oklch(0.740 0.0761 166.94)",
+          "oklch(0.860 0.0410 166.94)",
+          "oklch(0.950 0.0146 166.94)"
+        ]
+      },
+      "active": {
+        "role": "primary",
+        "displayName": "active",
+        "tonalRamp": [
+          "oklch(0.150 0.0097 159.90)",
+          "oklch(0.260 0.0168 159.90)",
+          "oklch(0.380 0.0246 159.90)",
+          "oklch(0.500 0.0291 159.90)",
+          "oklch(0.620 0.0291 159.90)",
+          "oklch(0.740 0.0252 159.90)",
+          "oklch(0.860 0.0136 159.90)",
+          "oklch(0.950 0.0049 159.90)"
+        ]
+      },
+      "violet": {
+        "role": "secondary",
+        "displayName": "violet",
+        "tonalRamp": [
+          "oklch(0.150 0.0389 302.67)",
+          "oklch(0.260 0.0674 302.67)",
+          "oklch(0.380 0.0984 302.67)",
+          "oklch(0.500 0.1166 302.67)",
+          "oklch(0.620 0.1166 302.67)",
+          "oklch(0.740 0.1010 302.67)",
+          "oklch(0.860 0.0544 302.67)",
+          "oklch(0.950 0.0194 302.67)"
+        ]
+      },
+      "violet-soft": {
+        "role": "secondary",
+        "displayName": "violet-soft",
+        "tonalRamp": [
+          "oklch(0.150 0.0061 306.66)",
+          "oklch(0.260 0.0106 306.66)",
+          "oklch(0.380 0.0156 306.66)",
+          "oklch(0.500 0.0184 306.66)",
+          "oklch(0.620 0.0184 306.66)",
+          "oklch(0.740 0.0160 306.66)",
+          "oklch(0.860 0.0086 306.66)",
+          "oklch(0.950 0.0031 306.66)"
+        ]
+      },
+      "blue": {
+        "role": "secondary",
+        "displayName": "blue",
+        "tonalRamp": [
+          "oklch(0.150 0.0275 241.18)",
+          "oklch(0.260 0.0477 241.18)",
+          "oklch(0.380 0.0697 241.18)",
+          "oklch(0.500 0.0826 241.18)",
+          "oklch(0.620 0.0826 241.18)",
+          "oklch(0.740 0.0716 241.18)",
+          "oklch(0.860 0.0385 241.18)",
+          "oklch(0.950 0.0138 241.18)"
+        ]
+      },
+      "blue-soft": {
+        "role": "secondary",
+        "displayName": "blue-soft",
+        "tonalRamp": [
+          "oklch(0.150 0.0042 244.25)",
+          "oklch(0.260 0.0073 244.25)",
+          "oklch(0.380 0.0107 244.25)",
+          "oklch(0.500 0.0127 244.25)",
+          "oklch(0.620 0.0127 244.25)",
+          "oklch(0.740 0.0110 244.25)",
+          "oklch(0.860 0.0059 244.25)",
+          "oklch(0.950 0.0021 244.25)"
+        ]
+      },
+      "warn": {
+        "role": "tertiary",
+        "displayName": "warn",
+        "tonalRamp": [
+          "oklch(0.150 0.0299 78.69)",
+          "oklch(0.260 0.0518 78.69)",
+          "oklch(0.380 0.0757 78.69)",
+          "oklch(0.500 0.0897 78.69)",
+          "oklch(0.620 0.0897 78.69)",
+          "oklch(0.740 0.0777 78.69)",
+          "oklch(0.860 0.0419 78.69)",
+          "oklch(0.950 0.0149 78.69)"
+        ]
+      },
+      "warn-bg": {
+        "role": "tertiary",
+        "displayName": "warn-bg",
+        "tonalRamp": [
+          "oklch(0.150 0.0095 91.64)",
+          "oklch(0.260 0.0165 91.64)",
+          "oklch(0.380 0.0241 91.64)",
+          "oklch(0.500 0.0286 91.64)",
+          "oklch(0.620 0.0286 91.64)",
+          "oklch(0.740 0.0248 91.64)",
+          "oklch(0.860 0.0133 91.64)",
+          "oklch(0.950 0.0048 91.64)"
+        ]
+      },
+      "error": {
+        "role": "tertiary",
+        "displayName": "error",
+        "tonalRamp": [
+          "oklch(0.150 0.0496 25.48)",
+          "oklch(0.260 0.0860 25.48)",
+          "oklch(0.380 0.1257 25.48)",
+          "oklch(0.500 0.1488 25.48)",
+          "oklch(0.620 0.1488 25.48)",
+          "oklch(0.740 0.1290 25.48)",
+          "oklch(0.860 0.0695 25.48)",
+          "oklch(0.950 0.0248 25.48)"
+        ]
+      },
+      "dark-bg": {
+        "role": "neutral",
+        "displayName": "dark-bg",
+        "tonalRamp": [
+          "oklch(0.150 0.0055 168.32)",
+          "oklch(0.260 0.0095 168.32)",
+          "oklch(0.380 0.0138 168.32)",
+          "oklch(0.500 0.0164 168.32)",
+          "oklch(0.620 0.0164 168.32)",
+          "oklch(0.740 0.0142 168.32)",
+          "oklch(0.860 0.0076 168.32)",
+          "oklch(0.950 0.0027 168.32)"
+        ]
+      },
+      "dark-paper": {
+        "role": "neutral",
+        "displayName": "dark-paper",
+        "tonalRamp": [
+          "oklch(0.150 0.0077 162.59)",
+          "oklch(0.260 0.0134 162.59)",
+          "oklch(0.380 0.0196 162.59)",
+          "oklch(0.500 0.0232 162.59)",
+          "oklch(0.620 0.0232 162.59)",
+          "oklch(0.740 0.0201 162.59)",
+          "oklch(0.860 0.0108 162.59)",
+          "oklch(0.950 0.0039 162.59)"
+        ]
+      },
+      "dark-rail": {
+        "role": "neutral",
+        "displayName": "dark-rail",
+        "tonalRamp": [
+          "oklch(0.150 0.0115 161.76)",
+          "oklch(0.260 0.0199 161.76)",
+          "oklch(0.380 0.0291 161.76)",
+          "oklch(0.500 0.0345 161.76)",
+          "oklch(0.620 0.0345 161.76)",
+          "oklch(0.740 0.0299 161.76)",
+          "oklch(0.860 0.0161 161.76)",
+          "oklch(0.950 0.0057 161.76)"
+        ]
+      },
+      "dark-ink": {
+        "role": "neutral",
+        "displayName": "dark-ink",
+        "tonalRamp": [
+          "oklch(0.150 0.0050 158.24)",
+          "oklch(0.260 0.0086 158.24)",
+          "oklch(0.380 0.0126 158.24)",
+          "oklch(0.500 0.0149 158.24)",
+          "oklch(0.620 0.0149 158.24)",
+          "oklch(0.740 0.0129 158.24)",
+          "oklch(0.860 0.0070 158.24)",
+          "oklch(0.950 0.0025 158.24)"
+        ]
+      },
+      "dark-muted": {
+        "role": "neutral",
+        "displayName": "dark-muted",
+        "tonalRamp": [
+          "oklch(0.150 0.0098 155.14)",
+          "oklch(0.260 0.0170 155.14)",
+          "oklch(0.380 0.0248 155.14)",
+          "oklch(0.500 0.0294 155.14)",
+          "oklch(0.620 0.0294 155.14)",
+          "oklch(0.740 0.0255 155.14)",
+          "oklch(0.860 0.0137 155.14)",
+          "oklch(0.950 0.0049 155.14)"
+        ]
+      },
+      "dark-line": {
+        "role": "neutral",
+        "displayName": "dark-line",
+        "tonalRamp": [
+          "oklch(0.150 0.0119 156.64)",
+          "oklch(0.260 0.0205 156.64)",
+          "oklch(0.380 0.0300 156.64)",
+          "oklch(0.500 0.0356 156.64)",
+          "oklch(0.620 0.0356 156.64)",
+          "oklch(0.740 0.0308 156.64)",
+          "oklch(0.860 0.0166 156.64)",
+          "oklch(0.950 0.0059 156.64)"
+        ]
+      },
+      "dark-accent": {
+        "role": "primary",
+        "displayName": "dark-accent",
+        "tonalRamp": [
+          "oklch(0.150 0.0308 163.29)",
+          "oklch(0.260 0.0533 163.29)",
+          "oklch(0.380 0.0779 163.29)",
+          "oklch(0.500 0.0923 163.29)",
+          "oklch(0.620 0.0923 163.29)",
+          "oklch(0.740 0.0800 163.29)",
+          "oklch(0.860 0.0431 163.29)",
+          "oklch(0.950 0.0154 163.29)"
+        ]
+      },
+      "dark-active": {
+        "role": "primary",
+        "displayName": "dark-active",
+        "tonalRamp": [
+          "oklch(0.150 0.0159 162.03)",
+          "oklch(0.260 0.0276 162.03)",
+          "oklch(0.380 0.0404 162.03)",
+          "oklch(0.500 0.0478 162.03)",
+          "oklch(0.620 0.0478 162.03)",
+          "oklch(0.740 0.0415 162.03)",
+          "oklch(0.860 0.0223 162.03)",
+          "oklch(0.950 0.0080 162.03)"
+        ]
+      },
+      "dark-violet": {
+        "role": "secondary",
+        "displayName": "dark-violet",
+        "tonalRamp": [
+          "oklch(0.150 0.0272 303.34)",
+          "oklch(0.260 0.0472 303.34)",
+          "oklch(0.380 0.0690 303.34)",
+          "oklch(0.500 0.0817 303.34)",
+          "oklch(0.620 0.0817 303.34)",
+          "oklch(0.740 0.0708 303.34)",
+          "oklch(0.860 0.0381 303.34)",
+          "oklch(0.950 0.0136 303.34)"
+        ]
+      },
+      "dark-violet-soft": {
+        "role": "secondary",
+        "displayName": "dark-violet-soft",
+        "tonalRamp": [
+          "oklch(0.150 0.0144 305.84)",
+          "oklch(0.260 0.0249 305.84)",
+          "oklch(0.380 0.0365 305.84)",
+          "oklch(0.500 0.0432 305.84)",
+          "oklch(0.620 0.0432 305.84)",
+          "oklch(0.740 0.0374 305.84)",
+          "oklch(0.860 0.0201 305.84)",
+          "oklch(0.950 0.0072 305.84)"
+        ]
+      },
+      "dark-blue": {
+        "role": "secondary",
+        "displayName": "dark-blue",
+        "tonalRamp": [
+          "oklch(0.150 0.0203 240.23)",
+          "oklch(0.260 0.0352 240.23)",
+          "oklch(0.380 0.0514 240.23)",
+          "oklch(0.500 0.0609 240.23)",
+          "oklch(0.620 0.0609 240.23)",
+          "oklch(0.740 0.0528 240.23)",
+          "oklch(0.860 0.0284 240.23)",
+          "oklch(0.950 0.0102 240.23)"
+        ]
+      },
+      "dark-blue-soft": {
+        "role": "secondary",
+        "displayName": "dark-blue-soft",
+        "tonalRamp": [
+          "oklch(0.150 0.0127 240.57)",
+          "oklch(0.260 0.0220 240.57)",
+          "oklch(0.380 0.0321 240.57)",
+          "oklch(0.500 0.0380 240.57)",
+          "oklch(0.620 0.0380 240.57)",
+          "oklch(0.740 0.0329 240.57)",
+          "oklch(0.860 0.0177 240.57)",
+          "oklch(0.950 0.0063 240.57)"
+        ]
+      },
+      "dark-warn": {
+        "role": "tertiary",
+        "displayName": "dark-warn",
+        "tonalRamp": [
+          "oklch(0.150 0.0298 88.18)",
+          "oklch(0.260 0.0517 88.18)",
+          "oklch(0.380 0.0755 88.18)",
+          "oklch(0.500 0.0894 88.18)",
+          "oklch(0.620 0.0894 88.18)",
+          "oklch(0.740 0.0775 88.18)",
+          "oklch(0.860 0.0417 88.18)",
+          "oklch(0.950 0.0149 88.18)"
+        ]
+      },
+      "dark-warn-bg": {
+        "role": "tertiary",
+        "displayName": "dark-warn-bg",
+        "tonalRamp": [
+          "oklch(0.150 0.0104 89.20)",
+          "oklch(0.260 0.0180 89.20)",
+          "oklch(0.380 0.0263 89.20)",
+          "oklch(0.500 0.0311 89.20)",
+          "oklch(0.620 0.0311 89.20)",
+          "oklch(0.740 0.0270 89.20)",
+          "oklch(0.860 0.0145 89.20)",
+          "oklch(0.950 0.0052 89.20)"
+        ]
+      },
+      "dark-error": {
+        "role": "tertiary",
+        "displayName": "dark-error",
+        "tonalRamp": [
+          "oklch(0.150 0.0329 23.37)",
+          "oklch(0.260 0.0569 23.37)",
+          "oklch(0.380 0.0832 23.37)",
+          "oklch(0.500 0.0986 23.37)",
+          "oklch(0.620 0.0986 23.37)",
+          "oklch(0.740 0.0854 23.37)",
+          "oklch(0.860 0.0460 23.37)",
+          "oklch(0.950 0.0164 23.37)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "headline": {
+        "displayName": "headline",
+        "purpose": "页面标题"
+      },
+      "title": {
+        "displayName": "title",
+        "purpose": "区块标题"
+      },
+      "body": {
+        "displayName": "body",
+        "purpose": "操作与释义"
+      },
+      "quote": {
+        "displayName": "quote",
+        "purpose": "原句证据"
+      },
+      "original": {
+        "displayName": "original",
+        "purpose": "连续原文"
+      },
+      "label": {
+        "displayName": "label",
+        "purpose": "类型与出处标签"
+      },
+      "word": {
+        "displayName": "word",
+        "purpose": "中心字词"
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "control-state",
+        "value": "background-color .14s, border-color .14s, stroke .14s",
+        "purpose": "按钮和图节点描边的轻量状态过渡。"
+      },
+      {
+        "name": "reduced-motion",
+        "value": "@media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}",
+        "purpose": "关闭所有过渡与平滑滚动。"
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide-min",
+        "value": "1500px"
+      },
+      {
+        "name": "compact-max",
+        "value": "1190px"
+      },
+      {
+        "name": "mobile-max",
+        "value": "760px"
+      }
+    ],
+    "themes": {
+      "light": {
+        "selector": ":root",
+        "tokens": {
+          "bg": "colors.bg",
+          "paper": "colors.paper",
+          "rail": "colors.rail",
+          "ink": "colors.ink",
+          "muted": "colors.muted",
+          "line": "colors.line",
+          "accent": "colors.accent",
+          "active": "colors.active",
+          "violet": "colors.violet",
+          "violet-soft": "colors.violet-soft",
+          "blue": "colors.blue",
+          "blue-soft": "colors.blue-soft",
+          "warn": "colors.warn",
+          "warn-bg": "colors.warn-bg",
+          "error": "colors.error"
+        }
+      },
+      "dark": {
+        "selector": ":root[data-theme=dark]",
+        "tokens": {
+          "bg": "colors.dark-bg",
+          "paper": "colors.dark-paper",
+          "rail": "colors.dark-rail",
+          "ink": "colors.dark-ink",
+          "muted": "colors.dark-muted",
+          "line": "colors.dark-line",
+          "accent": "colors.dark-accent",
+          "active": "colors.dark-active",
+          "violet": "colors.dark-violet",
+          "violet-soft": "colors.dark-violet-soft",
+          "blue": "colors.dark-blue",
+          "blue-soft": "colors.dark-blue-soft",
+          "warn": "colors.dark-warn",
+          "warn-bg": "colors.dark-warn-bg",
+          "error": "colors.dark-error"
+        }
+      }
+    },
+    "focus": [
+      {
+        "name": "interactive",
+        "value": "outline:3px solid var(--accent);outline-offset:3px",
+        "purpose": "标准控件、范围摘要、键盘可操作图节点。"
+      },
+      {
+        "name": "source-sentence",
+        "value": "outline:2px solid var(--accent);outline-offset:6px",
+        "purpose": "返回原文后程序聚焦的句子。"
+      }
+    ],
+    "provenance": {
+      "source": [
+        "static/style.css",
+        "static/index.html",
+        "static/app.js"
+      ],
+      "reviewEvidence": [
+        ".impeccable/review/desktop.png",
+        ".impeccable/review/mobile.png",
+        ".impeccable/review/tablet.png",
+        ".impeccable/review/dark.png",
+        ".impeccable/review/mobile-dark.png",
+        ".impeccable/review/mobile-source.png",
+        ".impeccable/review/progress.png",
+        ".impeccable/review/0.3/library-1440.png",
+        ".impeccable/review/0.3/library-390.png",
+        ".impeccable/review/0.3/guide-1440.png",
+        ".impeccable/review/0.3/guide-390.png",
+        ".impeccable/review/0.3/recitation-1440.png",
+        ".impeccable/review/0.3/recitation-390.png"
+      ],
+      "shippingRasterAssets": [],
+      "authoredVector": "static/icon.svg",
+      "tonalRamps": "Synthesized OKLCH preview ramps; not additional shipping CSS tokens.",
+      "extension03": {
+        "kind": "ordinary-extension",
+        "scope": [
+          "task-first study entry and handbook links",
+          "textbook trail and unverified materials",
+          "candidate word-class filter",
+          "self-directed recitation and restored range"
+        ],
+        "evidenceLimits": "The six 0.3 captures show library, guide and restored recitation range at 1440px and 390px; hidden/reveal and self-rating transitions are documented from static/app.js, not claimed as captured states. Only 8 directory links and 5 gloss checks exist; current school printing and full text calibration remain unconfirmed. Self practice is not ASR or automatic scoring.",
+        "reviewDisposition": "Parent-reported final verdict: ship; F1/F2 corrections scored resolved. Documentation does not broaden this verdict beyond that review."
+      }
+    }
+  },
+  "components": [
+    {
+      "name": "标准按钮",
+      "kind": "button",
+      "refersTo": "button-default",
+      "description": "纸面次级操作。",
+      "html": "<button class=\"ds-button\">放大</button>",
+      "css": ".ds-button{font-family:-apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif;font-size:15px;line-height:1.65;border:1px solid var(--line,#d7e2da);border-radius:9px;padding:9px 15px;min-height:44px;cursor:pointer;transition:background-color .14s,border-color .14s;background:var(--paper,#fff);color:var(--ink,#20382f)}.ds-button:hover{border-color:var(--accent,#176a50);background:var(--rail,#eaf2ed)}.ds-button:focus-visible{outline:3px solid var(--accent,#176a50);outline-offset:3px}"
+    },
+    {
+      "name": "主要按钮",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "进入辨析或确认当前判断。",
+      "html": "<button class=\"ds-primary\">确认判断</button>",
+      "css": ".ds-primary{font-family:-apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif;font-size:15px;line-height:1.65;border:1px solid var(--line,#d7e2da);border-radius:9px;padding:9px 15px;min-height:44px;cursor:pointer;transition:background-color .14s,border-color .14s;background:var(--accent,#176a50);color:var(--paper,#fff);border-color:var(--accent,#176a50);font-weight:550}.ds-primary:hover{background:var(--ink,#20382f)}.ds-primary:focus-visible{outline:3px solid var(--accent,#176a50);outline-offset:3px}"
+    },
+    {
+      "name": "搜索输入",
+      "kind": "input",
+      "refersTo": "search-field",
+      "description": "有边框的搜索容器，输入保持透明。",
+      "html": "<label class=\"ds-search\">搜索<input placeholder=\"字词、篇目或用法\" type=\"search\" /></label>",
+      "css": ".ds-search{font-family:-apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif;font-size:15px;line-height:1.65;display:flex;align-items:center;gap:8px;background:var(--bg,#f7faf8);color:var(--muted,#52685e);border:1px solid var(--line,#d7e2da);border-radius:9px;padding-left:14px}.ds-search input{font:inherit;min-width:0;border:0;background:transparent;padding:11px 14px;color:var(--ink,#20382f);caret-color:var(--accent,#176a50)}.ds-search input:focus-visible{outline:3px solid var(--accent,#176a50);outline-offset:3px}"
+    },
+    {
+      "name": "当前导航",
+      "kind": "nav",
+      "refersTo": "nav-active",
+      "description": "文字清楚、选中区域完整。",
+      "html": "<nav class=\"ds-nav\" aria-label=\"示例导航\"><a href=\"#\" aria-current=\"page\">知识地图</a><a href=\"#\">学课文</a></nav>",
+      "css": ".ds-nav{font-family:-apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif;font-size:15px;line-height:1.65;display:grid;gap:7px;background:var(--rail,#eaf2ed);padding:12px}.ds-nav a{color:var(--muted,#52685e);text-decoration:none;padding:12px 15px;border-radius:10px;font-weight:500;min-height:48px}.ds-nav a[aria-current]{color:var(--accent,#176a50);background:var(--active,#d3e9dc);font-weight:650}.ds-nav a:hover{background:var(--active,#d3e9dc)}.ds-nav a:focus-visible{outline:3px solid var(--accent,#176a50);outline-offset:3px}"
+    },
+    {
+      "name": "学习范围选项",
+      "kind": "button",
+      "refersTo": "button-scope-selected",
+      "description": "多选，至少保留一项。",
+      "html": "<button class=\"ds-scope\" aria-pressed=\"true\">小学</button>",
+      "css": ".ds-scope{font-family:-apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif;font-size:15px;line-height:1.65;border:1px solid var(--line,#d7e2da);border-radius:9px;padding:9px 15px;min-height:44px;cursor:pointer;transition:background-color .14s,border-color .14s;font-size:13px;padding:5px 9px;background:transparent;color:var(--ink,#20382f)}.ds-scope[aria-pressed=true]{background:var(--accent,#176a50);border-color:var(--accent,#176a50);color:var(--paper,#fff)}.ds-scope:hover{border-color:var(--accent,#176a50)}.ds-scope:focus-visible{outline:3px solid var(--accent,#176a50);outline-offset:3px}"
+    },
+    {
+      "name": "关联字词",
+      "kind": "chip",
+      "refersTo": "reading-chip",
+      "description": "阅读侧栏到用法的入口。",
+      "html": "<a class=\"ds-chip\" href=\"#\">之</a>",
+      "css": ".ds-chip{font-family:-apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif;font-size:15px;line-height:1.65;display:inline-flex;align-items:center;min-height:44px;padding:8px 16px;border:1px solid var(--line,#d7e2da);border-radius:8px;text-decoration:none;font-size:21px;color:var(--accent,#176a50)}.ds-chip:hover{text-decoration:underline}.ds-chip:focus-visible{outline:3px solid var(--accent,#176a50);outline-offset:3px}"
+    },
+    {
+      "name": "阅读纸面",
+      "kind": "card",
+      "refersTo": "reading-sheet",
+      "description": "平面容器与原文、重点词入口。",
+      "html": "<article class=\"ds-sheet\"><p>弈秋，通国<button class=\"ds-word\">之</button>善弈者也。</p></article>",
+      "css": ".ds-sheet{background:var(--paper,#fff);color:var(--ink,#20382f);padding:32px;border:1px solid var(--line,#d7e2da);border-radius:14px}.ds-sheet p{font-family:\"Songti SC\", \"Noto Serif CJK SC\", serif;font-size:25px;line-height:2.1;letter-spacing:.06em;margin:0}.ds-word{font:inherit;min-height:44px;border:0;border-radius:2px;background:var(--active,#d3e9dc);color:var(--accent,#176a50);padding:0 1px;text-decoration:underline;text-underline-offset:6px;cursor:pointer}.ds-word:hover{background:var(--rail,#eaf2ed)}.ds-word:focus-visible{outline:3px solid var(--accent,#176a50);outline-offset:3px}"
+    },
+    {
+      "name": "文字用法与原句",
+      "kind": "custom",
+      "refersTo": "sense-label",
+      "description": "具体用法、候选解释与本句教材注释证据分别呈现，保留回到原文与来源入口。",
+      "html": "<section class=\"ds-detail\"><span class=\"ds-label\">结构助词 · zhī</span><p>连接修饰成分与中心词。</p><blockquote>弈秋，通国之善弈者也。</blockquote><a href=\"#\">查看原文</a></section>",
+      "css": ".ds-detail{font-family:-apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif;font-size:15px;line-height:1.65;color:var(--ink,#20382f);padding:14px 12px 8px}.ds-label{display:inline-block;padding:3px 8px;background:var(--violet-soft,#f0eaf7);color:var(--violet,#72529b);font-size:12px;border-radius:5px}.ds-detail p{font-size:15px;line-height:1.9;margin:12px 0}.ds-detail blockquote{font-family:\"Songti SC\", \"Noto Serif CJK SC\", serif;font-size:20px;line-height:1.9;margin:18px 0}.ds-detail a{display:inline-flex;align-items:center;min-height:44px;color:var(--accent,#176a50);text-underline-offset:4px}.ds-detail a:hover{text-decoration-thickness:2px}.ds-detail a:focus-visible{outline:3px solid var(--accent,#176a50);outline-offset:3px}"
+    },
+    {
+      "name": "来源与核验提示",
+      "kind": "custom",
+      "refersTo": "feedback-wrong",
+      "description": "待审核、目录比对、本句注释比对与当前学校印次分别说明，不把部分证据合并成全量完成状态。",
+      "html": "<aside class=\"ds-notice\">原典样例 · 释义待人审 <a href=\"#\">查看数据说明</a></aside>",
+      "css": ".ds-notice{font-family:-apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif;font-size:15px;line-height:1.65;padding:10px 36px;background:var(--warn-bg,#fbf4df);color:var(--warn,#775514);font-size:12px}.ds-notice a{color:inherit;font-weight:600;text-underline-offset:4px;display:inline-flex;align-items:center;min-height:44px}.ds-notice a:hover{text-decoration-thickness:2px}.ds-notice a:focus-visible{outline:3px solid var(--accent,#176a50);outline-offset:3px}"
+    },
+    {
+      "name": "练习反馈",
+      "kind": "custom",
+      "refersTo": "feedback",
+      "description": "反馈文字保留辅助完成与独立证据的区别。",
+      "html": "<div class=\"ds-feedback\" role=\"status\"><strong>这一次判断正确</strong><p>一次答对还不能证明已经掌握。稍后换语境，再试一次。</p></div>",
+      "css": ".ds-feedback{font-family:-apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif;font-size:15px;line-height:1.65;color:var(--ink,#20382f);padding:18px;background:var(--rail,#eaf2ed);border-radius:9px;margin-top:20px}.ds-feedback p{margin:8px 0}"
+    },
+    {
+      "name": "教材材料入口",
+      "kind": "nav",
+      "description": "课内目录与待核试读分开，当前入口以文字加重和 aria-current 表达，保留手册链接。",
+      "html": "<nav class=\"ds-material\" aria-label=\"材料范围\"><a href=\"#library\" aria-current=\"page\">课内目录（已比对部分）</a><a href=\"#library/draft\">待核试读资料</a><a href=\"#guide\">不知道怎样学？看手册</a></nav>",
+      "css": ".ds-material{font-family:-apple-system,BlinkMacSystemFont,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;font-size:15px;line-height:1.65;color:var(--ink,#20382f);display:flex;flex-wrap:wrap;gap:18px;margin-bottom:22px}.ds-material a{display:inline-flex;align-items:center;min-height:44px;color:var(--accent,#176a50);text-decoration:underline;text-underline-offset:4px}.ds-material a[aria-current=page]{font-weight:700}.ds-material a:hover{text-decoration-thickness:2px}.ds-material a:focus-visible{outline:3px solid var(--accent,#176a50);outline-offset:3px}@media(max-width:760px){.ds-material{gap:12px}}"
+    },
+    {
+      "name": "自主背诵句段选择",
+      "kind": "custom",
+      "description": "原生复选框与整行文字标签选择练习范围；实际应用至少保留一句，关键词提示及单句揭示均计提示。",
+      "html": "<fieldset class=\"ds-segments\"><legend>选择这次要练的句段（1/2）</legend><p>自动分句不是教材自然段；范围按老师要求选择。</p><label><input type=\"checkbox\" checked><span>非淡泊无以明志，非宁静无以致远。</span></label><label><input type=\"checkbox\"><span>夫学须静也，才须学也。</span></label></fieldset>",
+      "css": ".ds-segments{font-family:-apple-system,BlinkMacSystemFont,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;font-size:15px;line-height:1.65;color:var(--ink,#20382f);border:1px solid var(--line,#d7e2da);border-radius:12px;margin:20px 0;padding:18px}.ds-segments p{font-size:12px;color:var(--muted,#52685e)}.ds-segments label{display:flex;gap:12px;align-items:flex-start;min-height:44px;border-top:1px solid var(--line,#d7e2da);padding:14px 0;cursor:pointer}.ds-segments input{width:22px;height:22px;flex-shrink:0;accent-color:var(--accent,#176a50);margin-top:5px}.ds-segments label:hover{background:var(--rail,#eaf2ed)}.ds-segments input:focus-visible{outline:3px solid var(--accent,#176a50);outline-offset:3px}@media(max-width:760px){.ds-segments{padding:14px}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "白绿语境标本台",
+    "overview": "以清透的白色阅读面、鼠尾草绿的导航区和墨绿的选择路径组织信息。植物标本分类的影响体现在分组、标签与选择反馈中：字词、具体用法、原文实例是不同类型，正文与操作始终使用标准网页控件。\n\n这是由 HTML、CSS、原生 JavaScript 与 SVG 构成的工作界面。Operate 表达为选择用法、切换视图、搜索与练习；Read 表达为宋体原文、释义与可追溯出处。两者共用简洁边框、克制圆角与明确文字状态；没有装饰性栅格插画或出货栅格图片，品牌标志是手工几何 SVG。",
+    "keyCharacteristics": [
+      "白绿中性面承担结构，语义色承担类型。",
+      "黑体操作与释义，宋体原文与中心字词。",
+      "桌面局部关系与证据并列，窄屏优先文字用法。",
+      "解释、原句、练习入口和审核链接保持相邻。"
+    ],
+    "rules": [
+      {
+        "name": "语义与选择分离",
+        "body": "紫色表示具体用法，蓝色表示原文实例；绿色表示中心字词、当前选择与操作。类别必须同时有文字，颜色不能代替标签。",
+        "section": "colors"
+      },
+      {
+        "name": "原文有独立声音",
+        "body": "原文、引用与中心字词使用宋体栈；操作、释义、来源说明使用系统黑体栈。",
+        "section": "typography"
+      },
+      {
+        "name": "平面层级",
+        "body": "使用纸面、导航面、细边框与语义底色区分层级，保持零阴影。",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do 延续现有主题变量及其完整深色映射；主题状态不改变颜色的语义。",
+      "Do 在文字视图的同一展开项内保留释义、例句、回到原文、练习与来源入口。",
+      "Do 保留可见键盘焦点、触控高度和 reduced-motion 支持。",
+      "Do 对待审释义、教材归属缺口与尚未评估状态使用明确文字。",
+      "Do 在教材目录、候选分类和自主背诵中继续使用原生链接、选择框与复选框，并把来源定位和提示使用状态写在相关操作附近。"
+    ],
+    "donts": [
+      "Don't 把义项紫色或实例蓝色当作任意装饰色。",
+      "Don't 用拖动或缩放关系图作为获得释义与证据的唯一途径。",
+      "Don't 将待审样例包装成已审核教材，或把浏览记录呈现为掌握结论。",
+      "Don't 为学习内容添加无关位图装饰或复杂星空动效。",
+      "Don't 把目录比对呈现为全文或全部释义审核，也不把自主背诵自评呈现为自动检测通过。"
+    ]
+  }
+}

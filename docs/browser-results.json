@@ -1,0 +1,147 @@
+{
+  "passed": 35,
+  "load_ms": 81.1,
+  "checks": [
+    {
+      "check": "desktop renders actual graph",
+      "passed": true
+    },
+    {
+      "check": "default scope primary only",
+      "passed": true
+    },
+    {
+      "check": "at least one scope retained",
+      "passed": true
+    },
+    {
+      "check": "scope survives reload",
+      "passed": true
+    },
+    {
+      "check": "zoom changes viewbox",
+      "passed": true
+    },
+    {
+      "check": "sense changes evidence",
+      "passed": true
+    },
+    {
+      "check": "return to exact original",
+      "passed": true
+    },
+    {
+      "check": "original to knowledge map",
+      "passed": true
+    },
+    {
+      "check": "in-place view toggle retains focus",
+      "passed": true
+    },
+    {
+      "check": "accessible text alternative",
+      "passed": true
+    },
+    {
+      "check": "search finds work",
+      "passed": true
+    },
+    {
+      "check": "search empty state",
+      "passed": true
+    },
+    {
+      "check": "answer hidden until submission",
+      "passed": true
+    },
+    {
+      "check": "hinted answer feedback",
+      "passed": true
+    },
+    {
+      "check": "hint is not independent mastery",
+      "passed": true
+    },
+    {
+      "check": "published catalog does not fake coverage",
+      "passed": true
+    },
+    {
+      "check": "coverage explicit 18 pending slots",
+      "passed": true
+    },
+    {
+      "check": "dark theme selectable",
+      "passed": true
+    },
+    {
+      "check": "390px no horizontal overflow",
+      "passed": true
+    },
+    {
+      "check": "mobile starts with text-first map",
+      "passed": true
+    },
+    {
+      "check": "mobile scope disclosure starts collapsed",
+      "passed": true
+    },
+    {
+      "check": "mobile theme remains available",
+      "passed": true
+    },
+    {
+      "check": "390px wrong answer gives hypothesis",
+      "passed": true
+    },
+    {
+      "check": "390px practice no overflow",
+      "passed": true
+    },
+    {
+      "check": "390px exact later source is visible",
+      "passed": true
+    },
+    {
+      "check": "390px exact source has focus",
+      "passed": true
+    },
+    {
+      "check": "390px reader no overflow",
+      "passed": true
+    },
+    {
+      "check": "768px no horizontal overflow",
+      "passed": true
+    },
+    {
+      "check": "tablet text-first, graph opt-in",
+      "passed": true
+    },
+    {
+      "check": "768px wrong answer gives hypothesis",
+      "passed": true
+    },
+    {
+      "check": "768px practice no overflow",
+      "passed": true
+    },
+    {
+      "check": "768px exact later source is visible",
+      "passed": true
+    },
+    {
+      "check": "768px exact source has focus",
+      "passed": true
+    },
+    {
+      "check": "768px reader no overflow",
+      "passed": true
+    },
+    {
+      "check": "no JavaScript or CSP errors",
+      "passed": true
+    }
+  ],
+  "browser_errors": []
+}
